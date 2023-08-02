@@ -1,6 +1,10 @@
 <h1 align="center"> BC_08-Dashboard-Relatorio-de-Vendas <h1/> 
 <h4 align="center"> Projeto: Layout - Dashboard com relatório de vendas </h4>
 
+<p align="center">
+  <img alt="Imagem demonstrativa do Dashboard com relatório de vendas" src="https://i.imgur.com/TxIhYcs.png">
+</p>
+
 ## 🚀 Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
